@@ -1,1 +1,16 @@
-*{box-sizing:border-box;font-family:"Roboto"}body{margin:0}
+@charset "UTF-8";
+* {
+  /*background-color: $base-background;*/
+  box-sizing: border-box;
+  font-family: "Roboto";
+  /* background-color: pink; */
+}
+
+body {
+  background: #edd1fa;
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  margin: 0ß;
+}
